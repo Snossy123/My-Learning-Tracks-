@@ -12,6 +12,7 @@ Python Machine Learning Tracks road map for computer science students, which inc
 	<table>
 	<thead>
 		<tr>
+			<th width="10%">finished</th>
 			<th width="40%">Course</th>
 			<th width="60%">Chapter</th>
 			<th>H</th>
@@ -22,7 +23,8 @@ Python Machine Learning Tracks road map for computer science students, which inc
 	<tbody>
 			<tr>
 				<td rowspan=2 align=center>
-<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><br>
+				<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<label for="vehicle1"> I have a bike</label><br><br>
 				<td rowspan=4 align=center>
 <a href="https://learn.datacamp.com/courses/ai-fundamentals">AI Fundamentals</a><br>
 				<td align="left">Introduction to AI</td>
