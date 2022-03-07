@@ -11,8 +11,7 @@ Python Machine Learning Tracks road map for computer science students, which inc
 	<summary>Machine Learning Tracks</summary>
 	<table>
 	<thead>
-		<tr>
-			<th width="10%">finished</th>
+		<tr>  
 			<th width="40%">Course</th>
 			<th width="60%">Chapter</th>
 			<th>H</th>
@@ -22,9 +21,7 @@ Python Machine Learning Tracks road map for computer science students, which inc
 	</thead>
 	<tbody>
 			<tr>
-				<td rowspan=4 align=center>
-<a href="https://learn.datacamp.com/courses/ai-fundamentals">AI Fundamentals</a><br>
-				<td align="left">Introduction to AI</td>
+				 
 				<td rowspan=4 align=center>
 <a href="https://learn.datacamp.com/courses/ai-fundamentals">AI Fundamentals</a><br>
 				<td align="left">Introduction to AI</td>
